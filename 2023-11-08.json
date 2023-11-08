@@ -1,0 +1,26 @@
+{
+  "name": "Mario Meyer",
+  "age": 37,
+  "address": {
+    "street": "Naas Court",
+    "city": "Adujaja",
+    "state": "CA",
+    "zip": "86159"
+  },
+  "contact": {
+    "phone": "(787) 818-9789",
+    "servicePhone": "800634472"
+  },
+  "birthday": "1981-04-10T05:56:45.320Z",
+  "ip": "3.111.39.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Dizkuppa hejiwda hidwa anaip ibaliva zik tuw habva obkiz kudodwe icdocgo gojod. Gaju sutalba cu fa ruudiwi cetap topeg sa cut nac nida lafuj nisvez ipu en. Gupzog efu abivim ob zos segevu titrifobe becuvon vepzejes mocvefa buvco kihabni im.",
+    "bio": "Aniko gu jal domsa erupomviw wumuewu jocwe fipuvabe wa evebze keezihe be tid. Le hipus dolku paweg ti ri pobedki ifi awotis fom baweha seh. Ulodo bunjemot wip vefawdir met vabsaego fut suus ot dudmoguf encevelu riunecem mevuv coc hapud ja. Kowajage deji ec dozuzal vizo hamadiv su gekiz gin evumeki tazafohah joliktuf unonorow ulho unade jarron sewlivu guhsowso. Jepanov pogjohac kutgirig withog juvrahto icvip opvo eze kocoho fed sitwavra viad zi wezil guvbimis fonon emeuritoc. Kevu usbuhmar kijac eceohnin vabfijol keeduv nev di rivonet fed luiwemu al iwje bok iduho ub meskesi. Hihbijoja ce ru ro pijefbos kuro cisisis bomsaz ifahezi ziste futowpez dafu."
+  },
+  "apiKey": "509392dfcf0d9f64ca2e5f858e503aefe47c9ab7129ad96c4e60270e328372ac",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
