@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Moore",
+  "age": 26,
+  "address": {
+    "street": "Gahi Mill",
+    "city": "Begoad",
+    "state": "RI",
+    "zip": "36824"
+  },
+  "contact": {
+    "phone": "(801) 725-1843",
+    "servicePhone": "800695963"
+  },
+  "birthday": "1959-05-11T01:58:23.922Z",
+  "ip": "165.243.129.7",
+  "foo": "bar",
+  "profile": {
+    "about": "Hawgosot sopkida jemoli vadnazvo tedbele he ov tah owuatu timoper dep behzug ovmimde jazvan zihsouri. Wiwhaur sorevleb nojuti kuwi usomower nud kiac ubvo tul hahub fu poutiv mefza wej fiwalam. Vi orbod kuncipam fuzi gew ufo ki afsebofo eze behur cim ho voolapo avgitjif.",
+    "bio": "Buanre on zaculzi towa ivubuhi bi igiom oko abo raz cimonok em. Unid lolzufa hupot hil lawarlam pinazri bokgoho der zi uhanulob wetgewi putat api arlizizo utu poh lugo. Zibsozi gikatvu hibnuno siluje teja nelsiraj egiih ovfo haw bo ote enupa uk fenfafoha ihu em wuajfe es."
+  },
+  "apiKey": "67721f3ab3c6ee5baa7f750a117bd868b8722719f5ea0a76fcc93169540fbbe2",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}
