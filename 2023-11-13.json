@@ -1,0 +1,26 @@
+{
+  "name": "Erik Stephens",
+  "age": 41,
+  "address": {
+    "street": "Lewgu Path",
+    "city": "Fecrinal",
+    "state": "DE",
+    "zip": "38332"
+  },
+  "contact": {
+    "phone": "(719) 642-7516",
+    "servicePhone": "800472794"
+  },
+  "birthday": "1985-04-28T12:09:01.568Z",
+  "ip": "210.21.92.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Kihehe zihalu selzaz sakniba bu sojazde afoow ipmezsuz mivbaj di ikiej wieb vo tob nakgavi. Gabpo ji pewuf vazij ahibed jegud ufdetov we ga muha pufedo habu suw amenwu bu de. Mot damajdu icu dov vimvul kolwi zugoreca rupid tobti korjo juvfeg pazkuwzo oze wuwgac kese ca zuzta. Redbil saka cig lured diehuzu pehupevim ununubos ha hatafi tati ireveenu desegwe hostouma habbil jero te cod.",
+    "bio": "Gokletum cipsaba uwodehop ervucen tun rudev fadiwo metuuke kouzete nofzodcef okucef wucekga ivbig zev ta heszivco. Leji ducavwom fetlo kien nobwiip fofvop ja tevaj opa sereza aznef epsa loacioli de areeko. Ilfoh vaf zewunvod cef boz wu geptumose vieb mofca dalatanu re dehi."
+  },
+  "apiKey": "138b31b45126f60f7cd061b18c176b8bdef472627dbde14178d70c910872b415",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
