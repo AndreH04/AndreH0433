@@ -1,0 +1,26 @@
+{
+  "name": "Gordon Sullivan",
+  "age": 50,
+  "address": {
+    "street": "Tovu Street",
+    "city": "Gulesoza",
+    "state": "ID",
+    "zip": "65599"
+  },
+  "contact": {
+    "phone": "(484) 495-6983",
+    "servicePhone": "800497659"
+  },
+  "birthday": "1964-11-06T22:08:53.655Z",
+  "ip": "117.173.208.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Col mota naeni ifa ukalge sa sagaja jicerew ug zec eg lidbukwo. Tad zim ihouna ojahifho du reojezit ubefamcij la esopuuk warlohi iduniru kol ogucut wa budujuf dik kevegsit tihujro. Inpa rucniz ihubipo joj hu isuawbe zahcejze cenmatfar jij iw avuoteke aleto woj litam uge. Nudu ilvu foh burne eduizjop dizvohpez juhado desagadi suk haij ug gupliav vuvvih. Bomisu focesde tinhetad gehet buoripo kaid rewhih edpabtem jawa areahjom liasvo rikto sitih jacvah awugufum sosco lusrimoku. Por kusvijbo wu nomduluz ubcedfos se kifuv wiphaf gem agjajob tivwe cas sicli okauglum. Agi wi tin jib fiwin joftipi hepsehwu hen cucac zuhit ziwke caguer kan vupzeuso kal la caufa foit.",
+    "bio": "Fa zo fepdiuk degkadav keiva ofla zuwne ciho kohjet lugewi ojgogif de rumuhsa je uzahi jozoka osucij. Is osi ufhimwo weshit gihi zoni mocvireg reujeza um bananen habu udti kujitu visteoso. Tukgi sogdu iwa zeozisug jep wopu ape athecra dac cizmihtez buwose okdev ugu."
+  },
+  "apiKey": "b4d4cd3dca33cde3cad35530d9a13996e284f66cab16296a8da01419686104f2",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
