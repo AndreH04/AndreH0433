@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Butler",
+  "age": 35,
+  "address": {
+    "street": "Ukkum Ridge",
+    "city": "Gikfoda",
+    "state": "HI",
+    "zip": "50825"
+  },
+  "contact": {
+    "phone": "(530) 698-3283",
+    "servicePhone": "800262456"
+  },
+  "birthday": "1967-03-01T08:09:21.382Z",
+  "ip": "62.205.42.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoc hedfo demilir vagmoci va dahev bimgilwu gisdof buliin si vaf upeeffuj zepruk kugaezo utu. Bejezob ris sug nanoke veep uhep ceruwdog najdoc lukzifo nelsanci zirunjob bilu bonil jionu nuuli ju kenzoh lanwo. Fiku bettepuwo dudnih sar buszic biwopap cogwig tow kem lejev hopnup zazsopce ja hefitlih fuzbabile fiunu wec buzu.",
+    "bio": "Azosne cedo esi fuzbo seveto dam edjaoho mekgu binves ranalona bec pek tuv civjowod sa ogune. Tugzuwa mirtuv cal belpoh evoud za ju kem garemus rabizla mebucet feju. Geciffel on totij bopvauki tu zot relkin agiako rebmazitu ap dikro ipoaze jitmo dicomi. Vo hobu jibefad lu pisviiri onmig gu awuihata se rofeg jelivner cogaevi tibizo la. Vejas opojieru uspu gezku empow bej roromok fotiwumo deke ma mi gicisuv nusnozer aji. Fesud sepofu rusugmic osinubi bakevava hegojo iku sivwave rehahzug novop as esijuhra wolwade lajula."
+  },
+  "apiKey": "e5198a48d81df3a38e26b1331655f019b5e75cbcf75f2b9236b3a879b3ff301c",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
