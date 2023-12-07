@@ -1,0 +1,26 @@
+{
+  "name": "Estelle Howell",
+  "age": 47,
+  "address": {
+    "street": "Zerfi Grove",
+    "city": "Citemalo",
+    "state": "AL",
+    "zip": "30661"
+  },
+  "contact": {
+    "phone": "(645) 704-9494",
+    "servicePhone": "800158489"
+  },
+  "birthday": "1984-10-21T01:04:26.142Z",
+  "ip": "98.254.112.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Abonefe edeaki arigid wumuziwa fo akeot suv ku havpuzheh ri ebejeavu lodi kevgako ti derugba ihci cejemkuz labfaboh. Sid fas si belefgi ejecaw irotudaf cizef uwuwiju wiverif tore zuhhow rizzukcot. Da iva dev sodo kemwuew hif tibzar fihuaci juc ebo go fi lu isibo ti zotkew hoj.",
+    "bio": "Tavdimoga nicli dal noize faj lulisu vu zusado ricdafru koceve holmobos lapu. Bulipwo bawjuw giuzowa ippak jelidro ce mucgiaf cozicis topwaridi owce bok dapweza dohni ome kilu sefcuje wu injatde. Bon ji dipik enu vucpunis ini iwuakeuzo tozmasjo tuckagow sidursez ru gasdubera. Werba no du deblief adodoban edi fattec jine nonvagzu fudu ha sof. Gizmajev ru en nobep lah nas dimupejus lukaki nukneama ban uboiwi bad ivug socme ti. Sehitiz kipverbub tip git cawoz uwzo tidra jombeshow jij pez ajo huw sokid setzih fij. Potal tuzhet fagidro cekwok sovagut me efupofuj me mewazcab hehvaw dez laz nujdec."
+  },
+  "apiKey": "15e88ac3cef728dc4f7360400e64bfac15877f76195823cb867cda31def7f05a",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
