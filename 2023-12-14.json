@@ -1,0 +1,26 @@
+{
+  "name": "Carl Fernandez",
+  "age": 44,
+  "address": {
+    "street": "Vosac Mill",
+    "city": "Gavisa",
+    "state": "NY",
+    "zip": "74667"
+  },
+  "contact": {
+    "phone": "(949) 919-2459",
+    "servicePhone": "800292144"
+  },
+  "birthday": "1962-06-07T06:52:08.598Z",
+  "ip": "246.54.176.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubginwag ape honojzo sahorle cohab icne kiknic bedatdac iprutiz gecowdat cu mode upcuwom kiak gavgotsur pumpo tehajipu. Enmoiz koro ra tuw nese fidel ve birfed datru gapda vol tejna jukjodib fewgec re mopjoj vahzorla hecap. Ifmudbuz viju anigajac hoave wev zawli ikmiswe mokjilto dudip duwa mic kazuva va cecfuk koanu.",
+    "bio": "Edlizov detabu hawbelje kahovlab elo zidjir nukebwo ewodulob uvoowuf focro owdob abzof. Hufo iste jabav nukinu bakoeba astu av lutupi musues kan ag kubhugu egmo zi pa baden waiban etsi. Huhoku ana fufobpis vew gemem tuih cikrej nur bo pe hikcu piti fogpudtuk baar acevo rijuzkeg ge."
+  },
+  "apiKey": "203a84496d984abb062e0910332994932855af22a7fb95edf049addeef48c73b",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
