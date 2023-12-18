@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Rowe",
+  "age": 36,
+  "address": {
+    "street": "Apro Trail",
+    "city": "Uktulur",
+    "state": "WI",
+    "zip": "18113"
+  },
+  "contact": {
+    "phone": "(252) 357-8143",
+    "servicePhone": "800383862"
+  },
+  "birthday": "1983-11-05T00:09:14.128Z",
+  "ip": "237.37.35.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Po of taskiaj zuvoc puvvihwa kepvemho ce hefi duw ecpegzir uwemevwo ip dufec fa ced jele gu gep. Visna wassotha bis tivroszo gime pur usoel hozokuba hal anohi cudedva du. Ce jonjug vatba nibla nocato okeori arguj effo gig honvuplec fajeniwi demiv tometal ec behsulu.",
+    "bio": "Ma raworu bewankav ganvelruh ok re kapjeho lumu dopuhap enobaepa navtizjug de omafe tomberas fiveh usu. So ejpisfo arucawvo ge bofavi caf juk vuata umnat ro dumika fod. Wowziw nuthisbo une vimfifoju cu desunuwu bec vat ostu kah tiazaked mijep una ci veib bofipzal pihterfe zijureod."
+  },
+  "apiKey": "27ddb5f381a13e82eacc94754642dbacf7dd0437f179763d7d3b1852d0de6424",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
