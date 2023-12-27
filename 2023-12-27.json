@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Vargas",
+  "age": 34,
+  "address": {
+    "street": "Fekil Plaza",
+    "city": "Nawweva",
+    "state": "NY",
+    "zip": "58956"
+  },
+  "contact": {
+    "phone": "(565) 404-2155",
+    "servicePhone": "800931571"
+  },
+  "birthday": "1969-03-17T10:34:33.365Z",
+  "ip": "94.146.120.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Pegipug ola fagfut jelpeb golag mu goag om ipope aboco jocodli wufidcuk jowipehe. Bituw zih osipil gefap pizejrik lanencuw evuput vij godogop ji nekarap fuwewa ojvi vivipifiv. Zi balidgit guj junu wazwo ki la fetjezkod gu kohakoki fef uzidoh vansu atup. Vaz kewbuvu lozfifpe ege anukatmuk lojkipgac kokuvucu nez foluhah pov pecobma se lu no limum sow akmicnub pe.",
+    "bio": "Dovaroli me mibet oba rucifome kedasbu kownuwa cewzom sej sub noz la ra. Voscildov hol li sic ru ukkize uzmora co giidwiw ijcap mekuwi esezonzod ov ribujut iziboifa moloze inoheon. Ujbug kah fasunri cavlu ninag su vina sempu vofwevwa pisne mulri adum zortob powdun uga esa zicevza ji."
+  },
+  "apiKey": "05529369c2a6b3f38751b3400b7a7cced57b7f977cad8017989accd8d5767446",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
