@@ -1,0 +1,26 @@
+{
+  "name": "Marvin Hunter",
+  "age": 35,
+  "address": {
+    "street": "Umzuw Place",
+    "city": "Buchuis",
+    "state": "SC",
+    "zip": "95608"
+  },
+  "contact": {
+    "phone": "(626) 531-2479",
+    "servicePhone": "800625244"
+  },
+  "birthday": "2004-01-15T09:15:08.907Z",
+  "ip": "155.234.108.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Gubbi wanetar sagifek tuli wosmi onu bozlodof pujmulhev run ror owa iv. Tilugu gahe supewuz apepiz murke vapob hanikda lurjuhcu otwa dunowew hawiife ozo ewtat. Ze voves iswi jejab ob ifetatuz epe uvivawaj ibito macacim ot ri tuwiwzaz gab utibu.",
+    "bio": "Covbi viiji comidi wuw one wa sic gacrad gessum papu nidid kudfeha sepjeub zi nuhoc. Onren zu zosef oh gapibew sogud kaihpiw lotpuvci atupooda ril mirroz sek rajalge uhcug ja pemziit nu zebcag. Uwwufef ec sit zes meroh wucun cidive ceghuv ebitupuf howjifa ejacu ewmimta vog umucu. Visarlin waci bu gimsom tiafsal ube wemjuk ler atoowdi amiezebo uj fe porut divegi."
+  },
+  "apiKey": "d22cfa2e541aff8b1dd82e763ac6239f7f4aa67c6ba345daf7a7898bc4c0430e",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
