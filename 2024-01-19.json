@@ -1,0 +1,26 @@
+{
+  "name": "Susie Crawford",
+  "age": 32,
+  "address": {
+    "street": "Finul Terrace",
+    "city": "Wutaco",
+    "state": "ME",
+    "zip": "92570"
+  },
+  "contact": {
+    "phone": "(941) 728-8755",
+    "servicePhone": "800122446"
+  },
+  "birthday": "1997-07-23T05:06:12.243Z",
+  "ip": "218.235.18.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Lo jabbadra mariob cobipe sev ge vega nalima susvi eni tu hu adfafe kadefud cejiw. Mokuh ec esvot hipli pa lamle bupuoha ojedaw iw ceta hostan vi houda. Uzo zim aloadi jimvil rubacew vakuf ohsuinu ilune halekew juewu fit itripwo nole ni gu.",
+    "bio": "Te sioki oklin tatvojlos vomumum jas mek dod waz ah hegib tov. Obolekeg bibouf mepini ve jaszofo ve cesbigdes gesuave uvaz nuka dar cut ajsitgu laavolap. Ruacagaz watlowvod pinelbad pibsug ondaho fubot waf imizo vac honle gob cupuj leduniw. Paru pueha ub ijilug rivnaha jep waepicas cudaf ufapa fe hopfun erif wizfek alutus jib."
+  },
+  "apiKey": "6615a783f6f8143d40f8ecbaf87c0f68b5112c8fafa747e5c8191db07344f254",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}
