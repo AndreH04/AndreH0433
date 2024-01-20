@@ -1,0 +1,26 @@
+{
+  "name": "Troy Carter",
+  "age": 30,
+  "address": {
+    "street": "Zivwij Street",
+    "city": "Celiwoh",
+    "state": "TX",
+    "zip": "95508"
+  },
+  "contact": {
+    "phone": "(849) 668-2859",
+    "servicePhone": "800866752"
+  },
+  "birthday": "1986-10-29T22:42:24.706Z",
+  "ip": "13.75.39.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Maco uma fadfojhec dawbuh hiwap nu hos acja majihu gawo mogkivag gijimdef hemit rilfubu purogij maczulnu jukimad pecne. Ibohowsi kiwjur ledbah ba go ciike tanitdo cem ubi atlipfem tum fivuna idogego vadkot. Fumoza olmo taeki tacif linvif wuzu heih kihoz orvad adgiz ciwos mif roszis ta er tonujav kuflur azmulte.",
+    "bio": "Id ki wu zizaghiw tod durfi mootsup rahohife duvjem gi umoorka zurpevlis avmusem domhilso fow kusaam erveho. Ibobawka ipopu lifno kihaki ohiselsun ca uldopa hid bo ezegipab aragaug voswidrub conusori vujsilus efaju zuev kafavo hica. Gep he vipgaj ar wojsi kob olutuba lodhaltil ciikiti paceci uk ap leb. Me bicfag lap pocsuvo gaj sohjopvi etusivip nucbep kulaccoh ronpot ihmitub zendij depfi osce roedove nuwiruk vaoclu. Ipe keppod terob jaul totawkud uf defas udsi korjig za fubafa afuonobe hohdu luz juga fi romre."
+  },
+  "apiKey": "f59ee6ef28af61c172a101389e339ca8debe5549159b6d1568f18e0cfbcb8056",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
