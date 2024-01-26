@@ -1,0 +1,26 @@
+{
+  "name": "Craig Valdez",
+  "age": 49,
+  "address": {
+    "street": "Enuko Way",
+    "city": "Foloduz",
+    "state": "TN",
+    "zip": "38659"
+  },
+  "contact": {
+    "phone": "(225) 304-8155",
+    "servicePhone": "800387777"
+  },
+  "birthday": "2003-12-25T19:00:48.473Z",
+  "ip": "151.75.1.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Luralemev hijwuma sidtus lep veuwu idiagazav hac obo ivo wemkewet oca sahaffaj sahum dowarwav jogan ta. Wu nuhetov kissepve ver leza porim vo avu anozaj foneb foocdoj sokpenif tuba iva su. Vav gabufwuz dabe be tek dut efho kudwohho usbal puj okadino okez cipjegu mi ciz. Wolta zid teumose ozavtig kur gig laik ceh ecizav sol ajubomgo wozial sej le ked ime uw. Sonerda sedbidako dazipfi kamjihov lube wo nowugse oc weranke rif ra jaaco sen tab dovatsab vos.",
+    "bio": "Vepe du dibon navzu iwgo ga ozo hajpe fu wefi vopavu hi louzi ana pigorgov. Higiwozis gatsuful rugul hodewo fakaic doira dejzaipe dev hiw ve iziwu ho of dodtomiw jululul vu ukeju. Lihugrev jabcehavo hicaladi dimu og pibtup acetinu hi dusfoup pitijka zelazo ki nuvula lal ewjut mi kecaj."
+  },
+  "apiKey": "c1261ba643f06f57fa149992eaefe9f3fa8e3d7e9982bf9a5d91bb6288b5a044",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
