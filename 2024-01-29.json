@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Nichols",
+  "age": 25,
+  "address": {
+    "street": "Akebuk Ridge",
+    "city": "Wolewe",
+    "state": "NM",
+    "zip": "70556"
+  },
+  "contact": {
+    "phone": "(968) 545-6409",
+    "servicePhone": "800537614"
+  },
+  "birthday": "1979-07-14T11:57:41.747Z",
+  "ip": "119.80.204.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Sacefajo otdad ke ilesipok neve epe vowanod ufado er edvara ewrej wagfa liv dozetzuw wuf. Vuwuzuli rij hit ceze pif goidesu dir jew piv boipa wa ginaw. Hovvu ologi vada bon sarsavnid her cugikoc zen adewcaf gul no ca.",
+    "bio": "Lawmo de nu uneset uli moasu pejgi peelotis lo lala pos wu vusbebup cicin. Paibena nactev fudi cif huazu kobki hiehwu ti mabzioj feszo tici ce ruzi zifanfi bizuc dajo hekvo le. Lahileb mongo reane do waj had fetlo duucta rodnik rodo wih kiplugsas urjinso aksi ep loizilo mi cunwo. Asogo egoihe jeg em guet vizof guobo rehzodo na ogzivmi kib besod pejwigra panelli igji hiz."
+  },
+  "apiKey": "9fc7e2a0dd2f63866f7faea978f5ab23d0cd191e0d836a662f1d3306ebf59399",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
