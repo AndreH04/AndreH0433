@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Lambert",
+  "age": 60,
+  "address": {
+    "street": "Azju Boulevard",
+    "city": "Ochudej",
+    "state": "MD",
+    "zip": "91504"
+  },
+  "contact": {
+    "phone": "(937) 313-5571",
+    "servicePhone": "800348334"
+  },
+  "birthday": "1999-01-24T05:17:30.433Z",
+  "ip": "231.79.78.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Viwwas fuhaspet el it zanneb ufhugib erebomba adego buv bub lewicam himpacwe rokduef luskulki. Vi sa cojdanul obcijsun me luhit aseki kiwa nugca juki tec tako ave ikjemih kibkim. Zeduwa ruhempav kuf viz tijwu otecew itnanig satnu op cevkav atdohmo moofi zuvjasfur funona.",
+    "bio": "Gup evmuf four guesa wajulnum koil akmi ec pun bo tamuk bunewokag lato safhadiri. Hu vin un robon ludmufvot ti zul da heceuzu feasgif oguwevre besveh hajbus ar japfijin wejdu. Fazhel welet toh hob ruvamuci gezseze netruwe luap bawo jo kewez top deli zuhuho mukkewav etokij itiuwi. Awa tarowula cebu sewvo sikrab savbes nivado zilbi hizviju wesodez usuvip dopgi ipdubip bevjuzu bobabaja. Wanucom nokcuso guwimu hesofwul tacru vabdegga jadve kadzaf tolwivuc si gib fuptif ma viitad zanalfob ajrevjit. Zogi pofuhrin judfispu hotboma foh ju jovezrot ef zi su latkac ha."
+  },
+  "apiKey": "7999410e5c7e4ee29d4345d85abdedea816e19362d39f380f30390bd36f29683",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
