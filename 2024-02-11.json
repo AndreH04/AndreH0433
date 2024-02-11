@@ -1,0 +1,26 @@
+{
+  "name": "Jack Morton",
+  "age": 42,
+  "address": {
+    "street": "Gumog Glen",
+    "city": "Pirfirek",
+    "state": "NH",
+    "zip": "48345"
+  },
+  "contact": {
+    "phone": "(859) 368-4866",
+    "servicePhone": "800168169"
+  },
+  "birthday": "1989-09-24T23:40:48.212Z",
+  "ip": "65.129.254.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Dav ohitif uniraf vo lucofu kut rokzis sidet woh dijundo geb vob ze muh dic. Ap huase ta jokuceata uheho cijgerhi nalublu zibhetov gal soeni ej ogaehiver ariwamgu vidfu dezi tescumuz mu. Opoapru si remarab loz odmawo neviw cehivib div inowuse de sa cepojcis ohhuf ugdusuk havga. Nowi bus gazindis top pu ke soz awwu uni nava muvadwud ibho wuw hi sa ta.",
+    "bio": "Aja po fozhepu wenso cinmur ze ic fando so usvom cu ruegaci dir butgev te toheoj uvsodfog. Simut guzudih ofzod rufsahpo izme worlorbos ruv meljanvof biogi la ejgi wad lazikat timmorde efuvewmun joloruv doava suzuka. Odebneg nifpid omom ce melsafkod egutiso erodeb va jiuko bu zep kaaru diocijuf. Puke ewkatfa viani ut ocrafu kul ut omletap tit darjibafi jakuzuv fukcuca lu he kisho befezfi henbukut. Jat omhe wih ridde muvjodi uzu musit kiz rav bam de cukrez ul vapiv wulnieja."
+  },
+  "apiKey": "c2e100a13b5ecc9ec1427922c5d4bf6ea875ad734cc0aa908c9f3325bc3be182",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
