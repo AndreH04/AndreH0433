@@ -1,0 +1,26 @@
+{
+  "name": "Clarence Rios",
+  "age": 46,
+  "address": {
+    "street": "Lisik Mill",
+    "city": "Fofaefi",
+    "state": "NH",
+    "zip": "26142"
+  },
+  "contact": {
+    "phone": "(541) 491-4689",
+    "servicePhone": "800767353"
+  },
+  "birthday": "1960-08-17T19:09:38.507Z",
+  "ip": "37.94.237.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Lipab lipiti dubroce kare relad ni tefir samfuz osutef josabo jal evvabob womnigdu. Tuamfuk ol raunumi na kiljuzu inedo ijewuffu nahuev gi to fozo lefwulfef fuvilo noc. Gupog monvudo gafu cef inuecba lehnouro iwero levkiepa hiraic izvicham pe gedoge rabovtov nihpol kuskozner jahbiw zopedi ferel.",
+    "bio": "Nizta ga viki cujka nul reneldi fed disru leg fuve maj hum jotane hobvu. Nal durfod has bizacuca hih cudizke la siso zoj elelmo kanlufpaz av ciljur pivdec koabu ubosiino ar. Zaka nivboh nunwip bacajoda pehvo sif boebeak or nu bekleluk mer ba gicmizu sueza ceho vac nicku feuzu."
+  },
+  "apiKey": "4c851b68085a30a7663eb5b5e87007c6e55fbd75093f4d4c7bed6e0419ee66c8",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
