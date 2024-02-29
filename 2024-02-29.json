@@ -1,0 +1,26 @@
+{
+  "name": "Dale Sutton",
+  "age": 34,
+  "address": {
+    "street": "Vahi Way",
+    "city": "Nulwocuv",
+    "state": "OH",
+    "zip": "70741"
+  },
+  "contact": {
+    "phone": "(556) 859-1357",
+    "servicePhone": "800792661"
+  },
+  "birthday": "1988-06-28T01:42:46.358Z",
+  "ip": "221.96.142.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Foejol lokoc po gasu jeh rouke hani botramac uca ho tedciebi zosmu. Minsib ja suhapgi so lobu wuoj kopfan cek ihalivtov hokalec so ataivoodo uw hawmih zas mi hosiiv. Vifuz oglanuja jah ed kabomize penibpo hajluval kehogzef ruwihpi nun pem vovutazu secwum.",
+    "bio": "Goc duobni cif lev gumu timgo ja nulgovit iwli sojcurloz he ugevukka foto ubalij. Cub nuhsi coemuri fih ovito etisij dob tahawku wog agno duwsomi waszuv uno kokainu igi umojed. Devuzaeji zabiz elida jagdinmuw wew nopbujtus fisafezu bakahu sedfe za lifu ebeun."
+  },
+  "apiKey": "d1215d8d381d0d1eabe514ba2c3da3e60a9ac0ef1176f8a39bce117ee13104b1",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
