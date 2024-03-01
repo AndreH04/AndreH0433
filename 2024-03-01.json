@@ -1,0 +1,26 @@
+{
+  "name": "Albert Fleming",
+  "age": 31,
+  "address": {
+    "street": "Mallat Street",
+    "city": "Boejzot",
+    "state": "NM",
+    "zip": "64650"
+  },
+  "contact": {
+    "phone": "(962) 989-5964",
+    "servicePhone": "800495891"
+  },
+  "birthday": "1962-03-01T03:58:00.638Z",
+  "ip": "183.129.152.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Miben fic egnipne mowcibof fedzo kategij irohaguzo par tebona wij ko dez tacig vab buwom zipmut. Ropag bevi dumu unafa ro todmamiw lefema pimcibnew hifuhim amfub tasisac fegpo. Umkonom ubbufud jendusu jikva osodabgid ra sabwutcat kabgezru pac zi fotuca jizmura ram si huher wi nujuve.",
+    "bio": "Ahus hoog goocabur igucajmo jum epesoos bimvedar muk pu ojehout deni opnep fibe waina tag. Zot viloctop wazja do dep osanezzin bogu goocnal umolom gihzoufi rufha feco wovak ku bizwubitu hemricif. So nas we tobi karaghu ep zodom wazeje coferu cic zi be of."
+  },
+  "apiKey": "e206ce4d52d3247c1ad0a2638a415dab94416d2d1681605677d9eb8094734bb4",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
