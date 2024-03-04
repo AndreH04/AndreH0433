@@ -1,0 +1,26 @@
+{
+  "name": "Sadie Cummings",
+  "age": 42,
+  "address": {
+    "street": "Atowi Ridge",
+    "city": "Foppujku",
+    "state": "CT",
+    "zip": "33518"
+  },
+  "contact": {
+    "phone": "(741) 494-1593",
+    "servicePhone": "800388951"
+  },
+  "birthday": "1997-11-20T00:43:36.246Z",
+  "ip": "188.18.58.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ziige jingi gogo uma apapesil era ciafel fofu fa gep og muogi zidupsog hakdojah. Genocki bep heulu ob sugu mukida naasi ne locud pulid gielwi kihrajdaw edezom rim. Pum efudo geju tusi wudwik gotkanki romolcaj nocanben wis nur wo uzsigjiv iw roj viv ovogepab hunzozdek norod. Wawkupig rekmopu tanteloj hongirci luse wahe cof cip as kakmilej tuneson wetonupe pajawnif.",
+    "bio": "Keow zosogfoc epamoj tenitis ca wavieze ufwide enasi favowmev sipe ogaezjur zurzec. Joovo neupimi ramzuvor waolivu sowatgej kozivjif mephiv ces uru orobodugi piglej kiwri obdevo akkadfu ga fim tezuc mo. Es ehrisel it jitahev meke vi vo obaevi fer lerebto worpo sicpihuk in uc gafiwhec raha vo ugsafmi. Fobo vo guszak odvad sum ku ehohir zos liemu os gas kifka sejkuzos ra he no askocu cuodesub. Bitkat sigce uroesuvu viptiguko bihjog kewakluw vaw osuosu cenil gavubitut otiorah ju niavadu."
+  },
+  "apiKey": "be669282ea5f6180ca92a38b8f1edd10d792debc9d3cd3019a439ce187810854",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
