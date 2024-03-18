@@ -1,0 +1,26 @@
+{
+  "name": "Jean Schneider",
+  "age": 43,
+  "address": {
+    "street": "Pashiw View",
+    "city": "Ludgeto",
+    "state": "WV",
+    "zip": "08482"
+  },
+  "contact": {
+    "phone": "(726) 669-7900",
+    "servicePhone": "800158712"
+  },
+  "birthday": "1972-06-04T12:18:49.614Z",
+  "ip": "126.129.236.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Eb nodurcov he pi bafpobe jevuz sis timukgo pot defo dot ot zon omheoru new jovun keraimi wagle. Wo urvu rarijoet hiaviwe kol ug akiwenek midezni nerot vus udatat zow ce. Getomum huvda bu dawumabup zenuef ju ra tegin ci denmid emuori ose egzer nokder ferce pi gol kooha.",
+    "bio": "Kola ocapik sikhiaji vo terrizhi fud mokokiha bap kat isceil oho zimevdip. Rahuvgis ow hadeagu uva ji bolsuzko hamolve kupcummi cukejku jetkuipu ficmawhem okfadi ke. Dahiel howhoazu secbasag fozo wozjepe da jo pad aco viziiso jopimrup kevankom pit pebkikovo humevta kik fasfucde ap."
+  },
+  "apiKey": "5cd920acace816d74bb0a904019a88f9b2c83fc61175623271e67d4a6253ee29",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
