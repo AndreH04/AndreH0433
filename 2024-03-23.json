@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Stokes",
+  "age": 42,
+  "address": {
+    "street": "Moftid Circle",
+    "city": "Ucveta",
+    "state": "UT",
+    "zip": "00672"
+  },
+  "contact": {
+    "phone": "(910) 726-5088",
+    "servicePhone": "800462275"
+  },
+  "birthday": "1964-05-28T01:14:31.523Z",
+  "ip": "248.86.254.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Hi ji letsi kiduene pelufa azede bopazso hu ne asohib gusdod lenujabog. Ogedepjo acgur alakedor midmime perugo tipruwruc dovpebav vejfeb vetuwi taacca laazudi cevu dit ujoes te hukco. Hub so hu ed sinje pogge odopipoci bibpe animoda wisiba hojahbe norda ral doasi zosotema ut tewcemu.",
+    "bio": "Tojodeh umalaujo vosmi invelto faasgi budin buluta jafe ijnop nuhgo uk wusoced viojiso ned ebih. Bepdu uga so irefo zi mez ugipe zizzeit le jize neh pam hajo wihoj bafpuh ruvnuwos or ive. Fupbud inafi socdot gucil von li reig ureholzu neb dohe kopcesgi tiso ihebjol oz."
+  },
+  "apiKey": "a4eab251613bca92fa7ccf251e648448ad43e307a7e7116a489075a6b83a4656",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
