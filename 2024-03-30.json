@@ -1,0 +1,26 @@
+{
+  "name": "Alta Manning",
+  "age": 24,
+  "address": {
+    "street": "Dubpu Heights",
+    "city": "Ruvwimuro",
+    "state": "WI",
+    "zip": "64693"
+  },
+  "contact": {
+    "phone": "(971) 666-9326",
+    "servicePhone": "800598624"
+  },
+  "birthday": "1988-04-13T23:01:44.989Z",
+  "ip": "42.72.233.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruz gisreb zowa hopwotnev giok kuvu zaurraz zovat aga merhom eco cijkuse jacjukeze ej ne guse. Lopvudes nuagiboj gowba mekigat ev mun soumgo ne di zofedloh gef datejzi sejcunot ivocru. Ceb nuuju kog hotce mog atu bi fe hid fe doezju cesne.",
+    "bio": "Ublidu ni fippopamu uce mizsace fan kojiri bimrot te mur be ano sefiflil wavonosu tebpi. Nit nogus enkubuk wanjiwcoh di gos docu oselumnam wo mamez wilko noj jajoruko bahpe. Nej eziugetir baz jirup zita kecig catamwa na pisekpig wuzjofiv itura efeim. Fove welkosal imusiv uh idu dutwo zirano molcici ge neg jinulo uhdur pi umo fu. Mirafu zacmetci cobpaow duucop mejatioba lufujiri jadgi veliti ser werno zehbaso tokozu gij ig roopobil ahutom jazkihvi jegzor."
+  },
+  "apiKey": "4f7296fd8b521233d750e65cc6bccca70abce9c84d2a37f16700c3d97504e7ac",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
